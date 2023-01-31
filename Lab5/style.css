@@ -1,0 +1,58 @@
+/* Selectores de CSS */
+
+
+/* 
+    https://htmlcolorcodes.com/es/nombres-de-los-colores/
+    https://getemoji.com/ 
+*/
+
+p{
+    background-color: papayawhip;
+}
+
+.titulo{
+    background-color: teal;
+    color:white;
+    text-align: center;
+}
+
+#parrafoNum1{
+    background-color: coral;
+    color:blue;
+    text-align: right;
+    font-size: 20;
+}
+
+.titulo1 {
+    background-color: black;
+    color: yellow;
+    text-align: left;
+    font-size: 30;
+    text-decoration-line: underline;
+}
+
+*{
+    background-color: #ddbcdb;
+    color: black;
+    text-align: center;
+    font-size: 25;
+}
+/*
+
+*********** Selectores Básicos ************
+
+Utiliza un selector de Emoji (🍔) para aplicar lo siguiente:
+    * fondo de color negro
+    * color de texto amarillo
+    * texto alineado a la izquierda
+    * tamaño de fuente 30 px 
+    * texto subrayado
+
+
+Utiliza un selector universal para aplicar lo siguiente:
+    * fondo de color #ddbcdb
+    * color de texto negro
+    * texto dentrado 
+    * tamaño de fuente 25 px 
+
+*/
